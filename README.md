@@ -26,19 +26,9 @@ My top languages
 <tr>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
 </th>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
 </th>
 </tr>
 <tr>

@@ -7,8 +7,8 @@ My top languages
 |     1| Python  |
 |     2| C#         |
 |     3| SQL, SQLite       |
-|     4| Html, CSS, Django    |
-|     4| PHP      |
+|     4| PHP   |
+|     5| Html, CSS, Django       |
   
 </details>
 

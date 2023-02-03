@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi, I'm Krisztina 👋
 
-Hi, I'm Krisztina. 
+
+
 <details>
 <summary>My top languages</summary>
 
@@ -14,6 +15,7 @@ Hi, I'm Krisztina.
   
 </details>
 
+- 🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 
 <!--
 **KRussellE/KRussellE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

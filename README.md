@@ -9,6 +9,8 @@ Hi, I'm Krisztina.
 |     1| Python|
 |     2| C#                |
 |     3| SQL, SQLite       |
+|     4| Html, CSS, Django       |
+|     4| PHP      |
   
 </details>
 

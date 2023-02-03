@@ -45,9 +45,7 @@ EXAMPLE TEXT
 <td>
 <!-- REMOVE THE BACKSLASHES -->
 
-{
 
-    {
       My top languages
 
 | Rank | Languages |
@@ -59,10 +57,7 @@ EXAMPLE TEXT
 |     5| Html, CSS, Django       |
   
 </details>
-    }
-  ]
-}
-\```
+
   
 </td>
 <td>

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.vecteezy.com/vector-art/3862357-monkey-hanging-on-tree-branch-cartoon-character-sticker)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.vecteezy.com/vector-art/3862357-monkey-hanging-on-tree-branch-cartoon-character-sticker">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://www.vecteezy.com/vector-art/3862357-monkey-hanging-on-tree-branch-cartoon-character-sticker)">
+ <img alt="YOUR-ALT-TEXT" src="https://www.vecteezy.com/vector-art/3862357-monkey-hanging-on-tree-branch-cartoon-character-sticker">
 </picture>

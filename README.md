@@ -63,10 +63,8 @@ My top languages
 </tr>
 <tr>
 <td align="center">
-Column 1
 </td>
 <td align="center">
-Column 2
 </td>
 </tr>
 </table>

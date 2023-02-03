@@ -4,8 +4,7 @@ My top languages
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python <picture>
-  <source media="(prefers-color-scheme: dark)" srcset= https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg>|
+|     1| Python|
 |     2| C#                |
 |     3| SQL, SQLite       |
 |     4| Html, CSS, Django       |

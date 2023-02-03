@@ -62,9 +62,9 @@ My top languages
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="right">
 </td>
-<td align="center">
+<td align="right">
 </td>
 </tr>
 </table>

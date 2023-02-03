@@ -23,10 +23,10 @@ My top languages
   🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 
 <table>
-<tr>
+<!-- <tr>
 <th align="center">
 <img width="441" height="1">
-</th>
+</th> -->
 <th align="center">
 <!-- <img width="441" height="1"> -->
 </th>

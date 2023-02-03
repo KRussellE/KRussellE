@@ -5,9 +5,9 @@ My top languages
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  |
-|     2| C#                |
+|     2| C#       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original-wordmark.svg" alt="CSS3" height="25" />          |
 |     3| SQL, SQLite       |
-|     4| Html, CSS, Django       |
+|     4| Html, CSS, Django  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />        |
 |     4| PHP      |
   
 </details>

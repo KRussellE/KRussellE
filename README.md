@@ -13,7 +13,7 @@ My top languages
 </details>
 
 
-
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}/>

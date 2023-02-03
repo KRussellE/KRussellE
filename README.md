@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Hi, I'm Krisztina. 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python|
+|     2| C#                |
+|     3| SQL, SQLite       |
+  
+</details>
+
+
 <!--
 **KRussellE/KRussellE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

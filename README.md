@@ -48,7 +48,17 @@ EXAMPLE TEXT
 {
   "foo": [
     {
-      "bar": "hello world"
+      My top languages
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python  |
+|     2| C#         |
+|     3| SQL, SQLite       |
+|     4| PHP   |
+|     5| Html, CSS, Django       |
+  
+</details>
     }
   ]
 }

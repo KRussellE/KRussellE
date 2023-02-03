@@ -18,7 +18,7 @@ My top languages
   <pre> 
 <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}/>
-</div></pre>
+</pre>
 </div>
 
 

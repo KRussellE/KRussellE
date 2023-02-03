@@ -13,7 +13,7 @@ My top languages
   
 </details></p>
 
-</div>
+
 <div tyle="float: right; width: 50%;">
   <pre> 
 <div id="header" align="right">

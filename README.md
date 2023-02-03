@@ -28,7 +28,7 @@ My top languages
 <img width="441" height="1">
 </th>
 <th align="center">
-<img width="441" height="1">
+<!-- <img width="441" height="1"> -->
 </th>
 </tr>
 <tr>

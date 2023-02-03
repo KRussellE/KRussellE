@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KRussellE/KRussellE/issues/1#issue-1570258000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KRussellE/KRussellE/issues/1#issue-1570258000">
-  <img alt="Monkey on the Tree." src="https://github.com/KRussellE/KRussellE/issues/1#issue-1570258000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png">
+  <img alt="Monkey on the Tree." src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png">
 </picture>
 
 ![My Image](../images/my-image.jpg)

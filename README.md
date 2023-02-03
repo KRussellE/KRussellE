@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}>
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}>

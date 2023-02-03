@@ -1,5 +1,5 @@
 ### Hi, I'm Krisztina 👋
-![
+
 My top languages
 
 | Rank | Languages |
@@ -11,7 +11,7 @@ My top languages
 |     5| Html, CSS, Django       |
   
 </details>
-]([http://placehold.it/image.jpeg](https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png)){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 
 <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=40px height=400px}/>

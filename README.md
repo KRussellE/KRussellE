@@ -1,12 +1,9 @@
 ### Hi, I'm Krisztina 👋
 
 
-<table style="border: none">
+<table>
 
 <td style="border: none">
-<!-- REMOVE THE BACKSLASHES -->
-
-
   <h3>My top languages</h3>
 
 | Rank | Languages |
@@ -20,7 +17,6 @@
 </details>
  🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 
-  
 </td>
 <td style="border: none">
 <!-- REMOVE THE BACKSLASHES -->

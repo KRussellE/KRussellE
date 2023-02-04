@@ -1,16 +1,16 @@
 ### Hi, I'm Krisztina 👋
 
 <table>
-<tr>
+<!-- <tr>
 <th align="center">
 <img width="441" height="1">
 </th>
 <th align="center">
 <!-- <img width="441" height="1"> -->
-</th>
+</th> -->
 </tr>
-<!-- <tr>
-<td> -->
+<tr>
+<td>
 <!-- REMOVE THE BACKSLASHES -->
 
 

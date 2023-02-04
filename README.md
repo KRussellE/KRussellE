@@ -60,9 +60,11 @@ My top languages
 |     4| PHP   |
 |     5| Html, CSS, Django       |
   
- 🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
-</details>
 
+</details>
+<tr>
+ 🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
+</td>
  
 
 <div id="header" align="right">

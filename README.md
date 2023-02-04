@@ -1,8 +1,5 @@
 ### Hi, I'm Krisztina 👋
-<style>
-  table td {
-    border: none !important;
-  }
+
 </style>
 <table>
 <!-- <tr>

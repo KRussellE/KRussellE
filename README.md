@@ -1,6 +1,8 @@
 ### Hi, I'm Krisztina 👋
 
-<table>
+<table td{
+    border: none !important;
+  }>
 <!-- <tr>
 <th align="center">
 <img width="441" height="1">

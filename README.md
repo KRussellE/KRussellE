@@ -12,7 +12,8 @@
     |     3| SQL, SQLite       |
     |     4| PHP   |
     |     5| Html, CSS, Django       |
-    </details>
+    
+  </details>
     
    🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 </td>

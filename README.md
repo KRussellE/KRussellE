@@ -3,8 +3,6 @@
 
 <table style="border: none">
 
-
-<tr>
 <td style="border: none">
 <!-- REMOVE THE BACKSLASHES -->
 

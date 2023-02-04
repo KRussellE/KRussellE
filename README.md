@@ -19,13 +19,10 @@
 
 </td>
 <td style="border: none">
-<!-- REMOVE THE BACKSLASHES -->
-
-
 <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/82880530/216677082-83024438-194c-4567-bd71-86839d59232f.png" {width=30px height=300px}/>
 
-</div>
+
 
 </td>
 </tr>

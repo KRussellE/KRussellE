@@ -1,7 +1,7 @@
 ### Hi, I'm Krisztina 👋
 
 
-<table>
+<table style="border: none">
 <!-- <tr>
 <th align="center">
 <img width="441" height="1">

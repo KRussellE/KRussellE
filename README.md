@@ -3,15 +3,7 @@
 
 <table>
   <td style="border: none">
-      <h3>My top languages</h3>
-
-    | Rank | Languages |
-    |-----:|-----------|
-    |     1| Python  |
-    |     2| C#         |
-    |     3| SQL, SQLite       |
-    |     4| PHP   |
-    |     5| Html, CSS, Django       |
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
     
   </details>
     
@@ -23,4 +15,4 @@
 
 </table>
 
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
+

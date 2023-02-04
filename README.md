@@ -3,11 +3,11 @@
 
 <table>
   <td style="border: none">
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
-    
-  </details>
-    
-   🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
+
+</details>
+
+ 🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).
 </td>
 <td style="border: none">
   <div id="header" align="right">

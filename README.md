@@ -3,8 +3,8 @@
 
 <table>
   <td >
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
-
+    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KRussellE)](https://github.com/KRussellE/github-readme-stats)
+  </td>
 </details>
 
  🌱 In my spare time I’m learning to develop games in Unreal (Blueprint, C++).

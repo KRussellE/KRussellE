@@ -1,6 +1,6 @@
 ### Hi, I'm Krisztina 👋
 
-</style>
+
 <table>
 <!-- <tr>
 <th align="center">

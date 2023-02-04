@@ -3,7 +3,7 @@
 
 <table style="border: none">
 
-</tr> 
+
 <tr>
 <td style="border: none">
 <!-- REMOVE THE BACKSLASHES -->

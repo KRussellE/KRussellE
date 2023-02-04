@@ -8,7 +8,7 @@
 <th align="center">
 <!-- <img width="441" height="1"> -->
 <!-- </th> -->
-</tr> -->
+</tr> 
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->

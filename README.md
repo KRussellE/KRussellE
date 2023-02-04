@@ -2,13 +2,7 @@
 
 
 <table style="border: none">
-<!-- <tr>
-<th align="center">
-<img width="441" height="1">
-</th>
-<th align="center">
-<!-- <img width="441" height="1"> -->
-<!-- </th> -->
+
 </tr> 
 <tr>
 <td style="border: none">

@@ -1,8 +1,10 @@
 ### Hi, I'm Krisztina 👋
-
-<table td{
+<style>
+  table td {
     border: none !important;
-  }>
+  }
+</style>
+<table>
 <!-- <tr>
 <th align="center">
 <img width="441" height="1">

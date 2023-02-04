@@ -30,7 +30,7 @@
 
   
 </td>
-<td>
+<td style="border: none">
 <!-- REMOVE THE BACKSLASHES -->
 
 
